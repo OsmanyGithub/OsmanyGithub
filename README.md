@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! I'm Osmany 👋
 
-<!--
-**OsmanyGithub/OsmanyGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From maritime navigation to machine operation to coding experiments — I love solving real-world problems with technical skills and a strong safety-first mindset.
 
-Here are some ideas to get you started:
+### Quick Facts
+- 🎓 Bachelor of Nautical Sciences  
+- ⚙️ Experience: High-precision manufacturing, vessel operations, team leadership  
+- 🌍 Languages: Spanish (native), English (professional), French & Italian (conversational)  
+- 💻 Learning: Java, Spring Boot, React, FastAPI, Docker, LeetCode (weekly contests)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently applying to Tesla Service Technician Trainee roles — eager to learn and work on cutting-edge electric vehicle technology!
+
+Let's build something great together 🚀
+
+📧 osmanysalsero@gmail.com  
+📍 Puyallup, WA
