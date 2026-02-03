@@ -12,5 +12,4 @@ Currently applying to Tesla Service Technician Trainee roles — eager to learn 
 
 Let's build something great together 🚀
 
-📧 osmanysalsero@gmail.com  
 📍 Puyallup, WA
