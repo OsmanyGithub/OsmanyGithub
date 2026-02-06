@@ -8,8 +8,6 @@ From maritime navigation to machine operation to coding experiments — I love s
 - 🌍 Languages: Spanish (native), English (professional), French & Italian (conversational)  
 - 💻 Learning: Java, Spring Boot, React, FastAPI, Docker, LeetCode (weekly contests)  
 
-Currently applying to Tesla Service Technician Trainee roles — eager to learn and work on cutting-edge electric vehicle technology!
+Eager to learn and work on cutting-edge technology!
 
-Let's build something great together 🚀
 
-📍 Puyallup, WA
