@@ -6,7 +6,11 @@ Quick Facts
 
 🎓 Bachelor of Nautical Sciences
 
-⚙️ Experience: High-precision manufacturing, vessel operations, team leadership
+**⚙️ Core Experience & Strengths**
+- Marine & Technical Operations
+- Team Leadership & Crew Coordination
+- High-Volume Customer Service
+- Precision Manufacturing & Process Control
 
 🌍 Languages: Spanish (native), English (professional), French & Italian (conversational)
 
